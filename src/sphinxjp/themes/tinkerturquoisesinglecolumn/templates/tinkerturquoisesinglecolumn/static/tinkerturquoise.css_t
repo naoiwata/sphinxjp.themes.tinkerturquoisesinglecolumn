@@ -254,8 +254,8 @@ article h1 a:hover, h1, aside a:hover, nav li a:hover, footer a:hover {
 
 .main-container article {
     float: left;
-    width: 710px;
-    padding: 55px;
+    width: 820px;
+    padding: 55px 0;
 }
 
 div.timestamp {
@@ -316,7 +316,7 @@ article strong{
 
 /* Sidebar */
 aside {
-    display: block; float: left; width: 710px; padding: 60px 0 0 0;
+    display: block; float: left; width: 820px; padding: 55px 0;
 }
 
 aside h1 {
@@ -328,7 +328,7 @@ aside h1 {
 aside section {
     margin: 0 0 25px 0;
     border-bottom: 1px dashed #ddd;
-    padding: 0 0 25px 30px;
+    padding: 0 0 25px 0;
 }
 
 #searchbox form {
