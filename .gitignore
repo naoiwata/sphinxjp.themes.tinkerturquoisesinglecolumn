@@ -1,0 +1,8 @@
+dist/
+_build/
+*.egg-info/
+*.pyc
+.DS_Store
+build
+venv
+demo
