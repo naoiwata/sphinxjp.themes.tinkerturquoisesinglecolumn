@@ -21,11 +21,11 @@
 
 
 /*
- * tinkerturquoise.css
+ * tinkerturquoisesinglecolumn.css
  *
- * Stylesheet for tinkerturquoise theme.
+ * Stylesheet for tinkerturquoisesinglecolumn theme.
  *
- * :copyright: Copyright 2013 by naoiwata
+ * :copyright: Copyright 2016 by naoiwata
  * :license: FreeBSD, see LICENSE file
  */
 
@@ -83,7 +83,7 @@ pre code {
     color: #a94442;
     background-color: #f2dede;
     border-color: #ebccd1;
-} 
+}
 
 body {
     font-size: 15px;
@@ -138,7 +138,7 @@ pre, pre span, pre var, pre em{
     font-family: Consolas,Monaco,Menlo,"Courier New",monospace !important;
 }
 
-.sp p, .sp strong, .sp span, .sp var, .sp em, .sp dt, .sp dd, .sp code, .sp kbd, 
+.sp p, .sp strong, .sp span, .sp var, .sp em, .sp dt, .sp dd, .sp code, .sp kbd,
 .sp samp, .sp th, .sp li, .sp td, .sp .line-block, .sp .archive_link, .sp .blockquote, .sp article div {
     font-size: 14px;
     line-height: 1.5em;
@@ -225,8 +225,8 @@ nav li {
     width: 100%;
 }
 
-li.quicklink { 
-    display: none; 
+li.quicklink {
+    display: none;
 }
 
 article a:link, article a:visited {
